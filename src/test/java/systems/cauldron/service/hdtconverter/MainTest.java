@@ -3,7 +3,7 @@ package systems.cauldron.service.hdtconverter;
 import org.junit.jupiter.api.Test;
 
 
-class ServerTest {
+class MainTest {
 
     @Test
     void test() {
